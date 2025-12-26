@@ -1,8 +1,5 @@
 # Ensemble Learning for Complex Regression Modeling on Bike Share Data
 
-- **Author:** Charukhesh  
-- **Roll No:** AE22B028  
-
 ## 📖 Project Overview
 
 This project investigates the application of **ensemble learning techniques** to a real-world regression problem, forecasting hourly bike rental demand using the **UCI Bike Sharing Dataset**.  
@@ -19,7 +16,7 @@ Beyond raw predictive accuracy, the project emphasizes **bias–variance trade-o
 ##  📁 Repository Structure
 
 ```
-DA5401-assignment-8-Charukhesh/
+EnsembleLearning/
 │
 ├── main.ipynb
 ├── dataset/
@@ -48,8 +45,8 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## How to Run This Project
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/Charukhesh/DA5401-assignment-8-Charukhesh.git
-    cd DA5401-assignment-8-Charukhesh
+    git clone https://github.com/Charukhesh/EnsembleLearning.git
+    cd EnsembleLearning
     ```
 
 2. **Dataset**
